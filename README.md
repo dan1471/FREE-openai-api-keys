@@ -63,6 +63,7 @@ Here you can find a collection of free OpenAI API keys for your projects. Feel f
     sk-5678ijklmnopabcd5678ijklmnopabcd5678ijkl
     sk-abcd1234efgh5678abcd1234efgh5678abcd1234
     sk-ijklmnopqrstuvwxijklmnopqrstuvwxijklmnop
+    sk-mnevergonnagiveyouupnevergonnaletyoudown
 
 
 ## Disclaimer
