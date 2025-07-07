@@ -76,3 +76,5 @@ If you have more free API keys to share, feel free to submit a pull request. Let
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## I have check few keys seems that most of keys are not working so due to that added this note.
