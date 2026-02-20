@@ -12,7 +12,7 @@ Here you can find a collection of free OpenAI API keys for your projects. Feel f
 ## GIVE ME A STAR TO SUPPORT ME OR BY ME A COFFEE
 ## API Keys
 
-
+    sk-abcdef12512890abcdqf1239044740abc43refpo
     sk-abcdef1234567890abcdef1234567890abcdef12
     sk-1234567890abcdef1234567890abcdef12345678
     sk-abcdefabcdefabcdefabcdefabcdefabcdef12
