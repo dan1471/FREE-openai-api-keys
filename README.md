@@ -1,3 +1,6 @@
+## AS BY 2026 THE KEYS DON'T WORK  ..I WILL UPDATE THEM AS SOON AS POSSIBLE 👍
+ 
+ 
  # Free OpenAI API Keys
 
 Welcome to the Free OpenAI API Keys repository! 🎉
